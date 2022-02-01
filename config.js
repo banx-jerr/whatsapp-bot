@@ -24,18 +24,16 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
   'https://api-xcoders.xyz': 'xcode7',
-  'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.me': 'apivinz',
-  'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://pencarikode.xyz': 'pais',
-  'https://melcanz.com': 'amel',
-  'https://neoxr-api.herokuapp.com': 'yntkts',
-  'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://botstyle-api.herokuapp.com': 'Eyar749L',
+  'htttps://api.jawasoft.xyz': 'jawasoft',
+  'https://api.sekha.tech': 'APIKEY',
+  'https://api.reysekha.xyz': 'APIKEY',
   'https://hardianto.xyz': 'hardianto',
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
+  'https://api.neoxr.eu.org': 'neoxr',
+  'https://api.chipa.xyz': 'chipa',
   'https://cakrayp.herokuapp.com': 'Cakra YP',
   'https://api.xteam.xyz': 'XTEAM',
+  'https://zahirr-web.herokuapp.com': 'zahirgans',
+  'https://api.zeks.me': 'vinz',
 }
 
 
