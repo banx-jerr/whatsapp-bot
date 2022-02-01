@@ -25,7 +25,7 @@ global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
   'https://api-xcoders.xyz': 'KurrApi09',
   'https://api.jawasoft.xyz': 'KurrXKey',
-  'https://api.sekha.tech': 'apisekha',
+  'https://api.sekha.tech': 'APIKEY',
   'https://api.reysekha.xyz': 'apirey',
   'https://hardianto.xyz': 'hardianto',
   'https://api.neoxr.eu.org': 'yntkts',
