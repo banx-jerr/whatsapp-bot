@@ -23,17 +23,17 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
-  'https://api-xcoders.xyz': 'APIKEY',
+  'https://api-xcoders.xyz': 'xcode7',
   'https://api.jawasoft.xyz': 'APIKEY',
   'https://api.sekha.tech': 'APIKEY',
   'https://api.reysekha.xyz': 'APIKEY',
   'https://hardianto.xyz': 'hardianto',
-  'https://api.neoxr.eu.org': 'yntkts',
+  'https://api.neoxr.eu.org': 'neoxr',
   'https://api.chipa.xyz': 'APIKER',
   'https://cakrayp.herokuapp.com': 'Cakra YP',
-  'https://api.xteam.xyz': 'AbilGanss',
+  'https://api.xteam.xyz': 'XTEAM',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.me': 'Ikyy69',
+  'https://api.zeks.me': 'vinz',
 }
 
 
