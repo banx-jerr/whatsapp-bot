@@ -5,23 +5,21 @@ global.owner = ['6287832147584', '6287832147584'] // Letakan nomor kamu disini
 
 global.APIs = { // API Prefix
   // nama: 'https://website'
+  rey: 'https://api.reysekha.xyz',
+  jawasoft: 'https://api.jawasoft.xyz',
   hardianto: 'https://hardianto.xyz',
+  jonaz: 'https://jonaz-api-v2.herokuapp.com',
   neoxr: 'https://api.neoxr.eu.org',
   nrtm: 'https://nurutomo.herokuapp.com',
   pencarikode: 'https://api.chipa.xyz',
   xteam: 'https://api.xteam.xyz',
   fxc7: 'https://api-xcoders.xyz',
   waifupics: 'https://api.waifu.pics',
+  sekha: 'https://api.sekha.tech',
   cakra: 'https://cakrayp.herokuapp.com',
   zahir: 'https://zahirr-web.herokuapp.com',
   zekais: 'http://zekais-api.herokuapp.com',
   zeks: 'https://api.zeks.me',
-  pencarikode: 'https://pencarikode.xyz',
-  ana: 'https://anabotofc.herokuapp.com/',
-  amel: 'https://melcanz.com',
-  hardianto: 'https://hardianto.xyz',
-  botstyle: 'https://botstyle-api.herokuapp.com',
-  LeysCoder: 'https://leyscoders-api.herokuapp.com'
 }
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
