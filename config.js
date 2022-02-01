@@ -5,8 +5,6 @@ global.owner = ['6287832147584', '6287832147584'] // Letakan nomor kamu disini
 
 global.APIs = { // API Prefix
   // nama: 'https://website'
-  rey: 'https://api.reysekha.xyz',
-  jawasoft: 'https://api.jawasoft.xyz',
   hardianto: 'https://hardianto.xyz',
   jonaz: 'https://jonaz-api-v2.herokuapp.com',
   neoxr: 'https://api.neoxr.eu.org',
@@ -15,7 +13,6 @@ global.APIs = { // API Prefix
   xteam: 'https://api.xteam.xyz',
   fxc7: 'https://api-xcoders.xyz',
   waifupics: 'https://api.waifu.pics',
-  sekha: 'https://api.sekha.tech',
   cakra: 'https://cakrayp.herokuapp.com',
   zahir: 'https://zahirr-web.herokuapp.com',
   zekais: 'http://zekais-api.herokuapp.com',
@@ -24,16 +21,17 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
   'https://api-xcoders.xyz': 'xcode7',
-  'https://api.jawasoft.xyz': 'APIKEY',
-  'https://api.sekha.tech': 'APIKEY',
-  'https://api.reysekha.xyz': 'APIKEY',
+  'https://zahirr-web.herokuapp.com': 'zahirgans',
+  'https://api.zeks.me': 'apivinz',
+  'https://pencarikode.xyz': 'pais',
+  'https://melcanz.com': 'amel',
+  'https://neoxr-api.herokuapp.com': 'yntkts',
+  'https://server-api-rey.herokuapp.com': 'apirey',
+  'https://botstyle-api.herokuapp.com': 'Eyar749L',
   'https://hardianto.xyz': 'hardianto',
-  'https://api.neoxr.eu.org': 'neoxr',
-  'https://api.chipa.xyz': 'APIKER',
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
   'https://cakrayp.herokuapp.com': 'Cakra YP',
   'https://api.xteam.xyz': 'XTEAM',
-  'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.me': 'vinz',
 }
 
 
