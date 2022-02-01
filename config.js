@@ -24,9 +24,9 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
   'https://api-xcoders.xyz': 'xcode7',
-  'htttps://api.jawasoft.xyz': 'jawasoft',
+  'https://api.jawasoft.xyz': 'jawasoft',
   'https://api.sekha.tech': 'APIKEY',
-  'https://api.reysekha.xyz': 'APIKEY',
+  'https://api.reysekha.xyz': 'reygans',
   'https://hardianto.xyz': 'hardianto',
   'https://api.neoxr.eu.org': 'neoxr',
   'https://api.chipa.xyz': 'chipa',
