@@ -103,12 +103,12 @@ module.exports = {
           sDemote: '',
           antiBadword: true,
           antiLink: false,
-          delete: true,
+          delete: false,
           descUpdate: true,
           download: true,
           expired: 0,
           getmsg: false,
-          read: true,
+          read: false,
           stiker: false,
           viewonce: false,
         }
@@ -136,11 +136,11 @@ module.exports = {
           antispam: true,
           antitroli: true,
           autoupdatestatus: false,
-          backup: false,
+          backup: true,
           buggc: true,
           backupTime: 0,
           group: false,
-          jadibot: false,
+          jadibot: true,
           nsfw: true,
           restrict: false,
           self: false,
@@ -453,7 +453,7 @@ module.exports = {
 Terdeteksi @${m.participant.split`@`[0]} telah menghapus pesan
 
 ketik *.on delete* untuk mematikan pesan ini
-`.trim(), '© sekha', 'Matikan Antidelete', ',on delete', m.message)
+`.trim(), '© pangeran', 'Matikan Antidelete', ',on delete', m.message)
     this.copyNForward(m.key.remoteJid, m.message).catch(e => console.log(e, m))
   },
   async onCall(json) {
