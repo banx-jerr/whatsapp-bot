@@ -1,7 +1,7 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.owner = ['6281284760551', '6281284760551'] // Letakan nomor kamu disini
+global.owner = ['6287832147584', '6287832147584'] // Letakan nomor kamu disini
 
 global.APIs = { // API Prefix
   // nama: 'https://website'
@@ -23,32 +23,32 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
-  'https://api-xcoders.xyz': 'APIKEY',
-  'htttps://api.jawasoft.xyz': 'APIKEY',
-  'https://api.sekha.tech': 'APIKEY',
-  'https://api.reysekha.xyz': 'APIKEY',
-  'https://hardianto.xyz': 'APIKEY',
-  'https://api.neoxr.eu.org': 'APIKEY',
-  'https://api.chipa.xyz': 'APIKEY',
-  'https://cakrayp.herokuapp.com': 'APIKEY',
-  'https://api.xteam.xyz': 'APIKEY',
-  'https://zahirr-web.herokuapp.com': 'APIKEY',
-  'https://api.zeks.me': 'APIKEY',
+  'https://api-xcoders.xyz': 'KurrApi09',
+  'https://api.jawasoft.xyz': 'KurrXKey',
+  'https://api.sekha.tech': 'apisekha',
+  'https://api.reysekha.xyz': 'apirey',
+  'https://hardianto.xyz': 'hardianto',
+  'https://api.neoxr.eu.org': 'yntkts',
+  'https://api.chipa.xyz': 'apivinz',
+  'https://cakrayp.herokuapp.com': 'Cakra YP',
+  'https://api.xteam.xyz': 'AbilGanss',
+  'https://zahirr-web.herokuapp.com': 'zahirgans',
+  'https://api.zeks.me': 'Ikyy69',
 }
 
 
 // Sticker WM
-global.packname = '© erza bot'
-global.author = 'ig @_sekhaa'
+global.packname = '© Pangeran'
+global.author = 'ig @abengrndna_'
 
-global.wm = '© reysekha'
+global.wm = '© pangeran'
 global.wait = '⏳ tunggu permintaan kamu sedang di proses...'
 global.eror = '× Upss Erorr silahkan lapor owner'
 global.benar = '✓'
 global.salah = '×'
 global.dikit = 'hampir benar'
-global.footer = '© sekha'
-global.reyganz= 'https://api.reysekha.xyz/api/wallpaper/justina?apikey='
+global.footer = '© pangeran'
+global.reyganz= 'https://api.reysekha.xyz/api/wallpaper/justina?apirey='
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
 
 global.multiplier = 150 // Semakin tinggi, semakin sulit naik level
